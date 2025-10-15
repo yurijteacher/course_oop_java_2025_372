@@ -1,10 +1,10 @@
-package ua.com.kisit.lab2;
+package ua.com.kisit.unit7;
 
 public class Main {
 
     public static void main(String[] args) {
 
-        new ClockFrame2();
+        new Calculation();
 
     }
 

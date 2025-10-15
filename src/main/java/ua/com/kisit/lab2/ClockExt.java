@@ -4,6 +4,14 @@ public class ClockExt extends Clock{
 
     private int second;
 
+    public int getSecond() {
+        return second;
+    }
+
+    public void setSecond(int second) {
+        this.second = second;
+    }
+
     public ClockExt() {
     }
 
