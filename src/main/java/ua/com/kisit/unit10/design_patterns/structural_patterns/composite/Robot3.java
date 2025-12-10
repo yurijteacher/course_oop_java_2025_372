@@ -1,0 +1,8 @@
+package ua.com.kisit.unit10.design_patterns.structural_patterns.composite;
+
+public class Robot3 implements Component{
+    @Override
+    public void action() {
+        System.out.println("Robot3 - take");
+    }
+}
